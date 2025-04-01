@@ -1,0 +1,2 @@
+# parametricas
+Crud parametrico
